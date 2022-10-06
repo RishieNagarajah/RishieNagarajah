@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishieNagarajah
 - 👀 I’m interested in Coding, Reading, Photograpgy, Photoshop
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...- 📫 How to reach me rishie.nagarajah@ryerson.ca
+- 📫 How to reach me rishie.nagarajah@ryerson.ca
 
 <!---
 RishieNagarajah/RishieNagarajah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
