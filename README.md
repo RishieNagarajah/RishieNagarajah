@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RishieNagarajah
-- 👀 I’m interested in Coding, Reading, Photograpgy, Photoshop
+- 👀 I’m interested in Coding, Reading, Photography, Photoshop
 - 🌱 I’m currently learning C++
 - 📫 How to reach me rishie.nagarajah@ryerson.ca
 
